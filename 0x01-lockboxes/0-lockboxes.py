@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module 0-lockboxes.py"""
 
+
 def canUnlockAll(boxes):
     """Function that creates a list to keep track of opened boxes
 
